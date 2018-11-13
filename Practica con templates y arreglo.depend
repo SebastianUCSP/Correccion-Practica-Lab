@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1542078874 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\main.cpp
+	<iostream>
+	"animal.h"
+	"perro.h"
+	"loro.h"
+	"gato.h"
+	"animalarray.h"
+
+1542078177 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\src\animal.cpp
+	"animal.h"
+	<iostream>
+
+1542078177 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\include\animal.h
+	<iostream>
+
+1542078874 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\include\perro.h
+	"animal.h"
+	<iostream>
+
+1542078874 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\include\loro.h
+	"animal.h"
+	<iostream>
+
+1542078874 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\include\gato.h
+	"animal.h"
+	<iostream>
+
+1542078874 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\include\animalarray.h
+	<iostream>
+	"animal.h"
+
+1542078874 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\src\animalarray.cpp
+	"animalarray.h"
+	<iostream>
+	"animal.h"
+
+1542078874 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\src\gato.cpp
+	"gato.h"
+	<iostream>
+	"animal.h"
+
+1542078874 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\src\loro.cpp
+	"loro.h"
+	<iostream>
+	"animal.h"
+
+1542078874 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\practica con templates y arreglo\src\perro.cpp
+	"perro.h"
+	"animal.h"
+	<iostream>
+
+1542114551 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\main.cpp
+	<iostream>
+	"animal.h"
+	"perro.h"
+	"loro.h"
+	"gato.h"
+	"animalarray.h"
+
+1542078177 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\include\animal.h
+	<iostream>
+
+1542083092 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\include\perro.h
+	"animal.h"
+	<iostream>
+
+1542082792 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\include\loro.h
+	"animal.h"
+	<iostream>
+
+1542082566 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\include\gato.h
+	"animal.h"
+	<iostream>
+
+1542114633 c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\include\animalarray.h
+	<iostream>
+	"animal.h"
+
+1542083766 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\src\animal.cpp
+	"animal.h"
+	<iostream>
+
+1542081958 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\src\animalarray.cpp
+	"animalarray.h"
+	<iostream>
+	"animal.h"
+
+1542082599 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\src\gato.cpp
+	"gato.h"
+	"animal.h"
+	<iostream>
+
+1542083092 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\src\loro.cpp
+	"loro.h"
+	"animal.h"
+	<iostream>
+
+1542083177 source:c:\users\sebastian\documents\ciencias de la computacion i\practica para 12-11-2018\pregunta a y b lab\src\perro.cpp
+	"perro.h"
+	"animal.h"
+	<iostream>
+
